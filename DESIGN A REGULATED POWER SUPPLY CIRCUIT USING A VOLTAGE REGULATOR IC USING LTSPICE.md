@@ -7,8 +7,12 @@
 <img width="756" height="368" alt="image" src="https://github.com/user-attachments/assets/aa815e31-1643-4c2b-afda-0c436818087e" />
 
 ## Tabulations
+<img width="669" height="690" alt="image" src="https://github.com/user-attachments/assets/1c7ab92b-eb6f-4871-8a11-0a1d4130a94f" />
+Circuit diagram
+<img width="1079" height="613" alt="image" src="https://github.com/user-attachments/assets/78168264-e022-4683-99ac-3c0293df52ab" />
 
 ## Graph
+<img width="929" height="515" alt="image" src="https://github.com/user-attachments/assets/0a54c195-e8f0-4f51-ba56-7680bafc9c7c" />
 
 
 <img width="853" height="183" alt="image" src="https://github.com/user-attachments/assets/ee91e1c1-171c-4208-83ee-e61ea1ba626c" />
