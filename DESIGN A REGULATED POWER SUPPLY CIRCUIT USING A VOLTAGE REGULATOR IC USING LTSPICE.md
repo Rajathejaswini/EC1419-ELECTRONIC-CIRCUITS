@@ -8,7 +8,9 @@
 
 ## Tabulations
 <img width="669" height="690" alt="image" src="https://github.com/user-attachments/assets/1c7ab92b-eb6f-4871-8a11-0a1d4130a94f" />
-## Circuit diagram
+
+## circuit diagram 
+
 <img width="1079" height="613" alt="image" src="https://github.com/user-attachments/assets/78168264-e022-4683-99ac-3c0293df52ab" />
 
 ## Graph
