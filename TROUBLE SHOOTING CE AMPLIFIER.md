@@ -6,8 +6,16 @@
 <img width="885" height="633" alt="image" src="https://github.com/user-attachments/assets/1eb504bf-ffbd-45a7-8ede-d0593601d20a" />
 
 
+
+
 ## Tabulations 
 
+<img width="562" height="744" alt="image" src="https://github.com/user-attachments/assets/15b7d63e-c01b-4752-95bb-e627a6f7e4d4" />
+
+
 ## Semilog Graph
+
+<img width="820" height="666" alt="image" src="https://github.com/user-attachments/assets/382106ae-f988-4ae8-8494-8f063b2e9547" />
+
 
 <img width="845" height="246" alt="image" src="https://github.com/user-attachments/assets/f02add25-358b-4b00-902c-8ad7d06fe7ec" />
