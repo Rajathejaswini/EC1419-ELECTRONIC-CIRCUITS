@@ -3,6 +3,12 @@
 <img width="727" height="500" alt="image" src="https://github.com/user-attachments/assets/87e0de1d-b37c-4f12-ab6e-55a24b43fb41" />
 <img width="780" height="486" alt="image" src="https://github.com/user-attachments/assets/dd542be5-c72c-4113-9e2a-b587b8f572b5" />
 
+## tabulation
+
+<img width="545" height="436" alt="image" src="https://github.com/user-attachments/assets/2f2d3825-1ea2-40c0-b8a7-cfbcc8505ec5" />
+
+
+<img width="797" height="361" alt="image" src="https://github.com/user-attachments/assets/59298b2c-007f-4235-8f22-3f18feee88d5" />
 
 ## TINKER CAD CIRCUIT DIAGRAM
 
