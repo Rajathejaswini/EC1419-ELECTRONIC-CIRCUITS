@@ -16,7 +16,8 @@
 ## Tabulation
 <img width="486" height="711" alt="image" src="https://github.com/user-attachments/assets/5e6fb702-fac4-44ee-baa4-6559e9fbcec1" />
 
-##Circular circuit 
+## Circular circuit 
+
 <img width="768" height="542" alt="image" src="https://github.com/user-attachments/assets/94ccf85b-2ac7-4fc0-a165-ec13372e9102" />
 
 ## Graph
